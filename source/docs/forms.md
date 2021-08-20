@@ -604,7 +604,7 @@ public static function form(Form $form)
 
 ### Placeholder {#layout-placeholder}
 
-Placeholders can be used to render text-only "fields" within your forms. Each placeholder has a value, which is cannot be changed by the user.
+Placeholders can be used to render text-only "fields" within your forms. Each placeholder has a value, which cannot be changed by the user.
 
 ```php
 use Filament\Resources\Forms\Components;
